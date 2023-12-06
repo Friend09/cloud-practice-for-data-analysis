@@ -4,7 +4,8 @@
 
 ### using gist to share code on github
 
-<script src="https://gist.github.com/Friend09/8b8e3be2f13422af923ef69d85d1e2af.js"></script>
+The following is a link to a sample shareable code
+[View the Gist](https://gist.github.com/Friend09/8b8e3be2f13422af923ef69d85d1e2af)
 
 ### using Audio, Video, Images
 
