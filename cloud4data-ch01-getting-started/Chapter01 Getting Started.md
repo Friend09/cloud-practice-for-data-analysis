@@ -9,9 +9,16 @@ The following is a link to a sample shareable code
 
 ### using Audio, Video, Images
 
+Image has been added as an issue inside github repo
+
 ### Sharing Images
 
+same as above
+
 ### Screencasts
+
+here is a sample screencast
+<video src="screencast_example.mp4" controls title="Title"></video>
 
 ### Produce once, Reuse Many
 
