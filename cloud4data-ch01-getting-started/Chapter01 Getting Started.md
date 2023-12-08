@@ -24,8 +24,8 @@ here is a sample screencast
 
 This document can be counted for this task as i am producing it once, reusing as needed for reference
 
-## Part B: Comment and reply to at least one person where you learned a new technique.
+## Effective Async Technical Project Management
 
-## Part C: After the “dust” has settled in a day or two, write down and document what you learned so you could use it.
+## Cloud Onboarding for AWS, GCP, and Azure
 
-## Part D: “Demo” your post
+
