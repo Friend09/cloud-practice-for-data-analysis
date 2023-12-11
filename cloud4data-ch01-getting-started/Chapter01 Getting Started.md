@@ -29,3 +29,7 @@ This document can be counted for this task as i am producing it once, reusing as
 ## Cloud Onboarding for AWS, GCP, and Azure
 
 
+### AWS
+
+- python scaffold
+- 
